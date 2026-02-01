@@ -111,7 +111,6 @@ The project includes a full Python-based EDA notebook that covers:
 - Python (pandas, matplotlib) for EDA
 - DAX for KPIs and time intelligence
 
----
 
 ## 📎 Credits
 
@@ -119,17 +118,3 @@ This project is based on the **RavenStack synthetic SaaS dataset** by River @ Ri
 Used with attribution under MIT-like license.
 
 🔗 [Original dataset on Kaggle](https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset)
-
----
-
-## 📬 Contact
-
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/ignacio-spreafico) if you'd like to discuss this project or SaaS analytics.
-
----
-
-## ✅ Status
-
-**✔ Completed** — Ready for sharing as part of my data portfolio.
-
-Feel free to fork, clone, or use this structure for your own analytics projects!
